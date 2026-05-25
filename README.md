@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🚀 Harsh Hindalekar Portfolio Website
 
-# Run and deploy your AI Studio app
+A modern, animated, fully responsive developer portfolio website built using React.js, Vite, Tailwind CSS and Framer Motion.
 
-This contains everything you need to run your app locally.
+Designed to showcase frontend development skills, UI/UX creativity, animations, projects and responsive design expertise with a premium modern interface.
 
-View your app in AI Studio: https://ai.studio/apps/e12ad1bb-86aa-44c6-bac9-f0b14c7f27f5
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🌟 Features
+⚡ Modern React.js + Vite Setup
+🎨 Premium Dark UI Design
+✨ Framer Motion Animations
+📱 Fully Responsive Layout
+🧊 Glassmorphism Effects
+🌈 Gradient UI Elements
+🚀 Smooth Scroll Animations
+🎯 Interactive Hover Effects
+📂 Dynamic Projects Section
+🛠 Skills & Tech Stack Showcase
+📬 Contact Form UI
+🔥 Mobile Friendly Navigation
+🎭 Animated Hero Section
+🌌 Floating Background Effects
+⬆ Scroll To Top Button
+🧠 Clean Component Architecture
+🛠 Tech Stack
+Frontend
+React.js
+Vite
+Tailwind CSS
+Framer Motion
+Icons & Utilities
+Lucide React
+React Router DOM
